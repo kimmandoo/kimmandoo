@@ -2,6 +2,9 @@
 
 🌱 I’m currently learning Algorithm with cpp and java.
 
+[![Solved.ac
+](http://mazassumnida.wtf/api/generate_badge?boj=nigmyu211)](https://solved.ac/nigmyu211)
+
 <!--
 **mingyuk99/mingyuk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
