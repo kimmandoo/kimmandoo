@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello👋
 
 * 🌱 I’m currently learning Algorithm with cpp and java.
 * 🌱 I’m currently learning Android with java. 
