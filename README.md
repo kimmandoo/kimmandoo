@@ -1,11 +1,30 @@
-### Hello👋
 
-* 🌱 I’m currently learning Algorithm with cpp and java.
-* 🌱 I’m currently learning Android with java. 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nigmyu211)](https://solved.ac/nigmyu211)
+<div align='center'>
+	
+  
+   ### Hello👋
+  
+   **🌱 I’m currently learning Algorithm and Android.**
 
+  [![Solved.ac
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nigmyu211)](https://solved.ac/nigmyu211)
+  
+  ![a](https://img.shields.io/badge/language-JAVA-red)
+
+</div>
+
+
+<!-- 여기에 내용을!! 
+
+  https://img.shields.io/badge/github-GIVEME--STAR-red
+
+
+
+
+
+
+-->
 
 
 <!--
