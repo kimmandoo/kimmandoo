@@ -13,7 +13,7 @@
 [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nigmyu211)](https://solved.ac/nigmyu211)    
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuk99&layout=compact" height="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuk99&count_private=true&layout=compact" height="200px"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mingyuk99&count_private=true&show_icons=true&hide_rank=true" height="200px" />
