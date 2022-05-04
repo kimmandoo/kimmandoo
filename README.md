@@ -3,9 +3,9 @@
 <div align='center'>
 	
   
-   ### Hello👋
+   ## Hello👋
   
-   I’m currently learning Algorithm and Android.
+   ### I’m currently learning Algorithm and Android.
 	
 	
 	
