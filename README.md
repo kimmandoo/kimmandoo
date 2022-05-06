@@ -14,6 +14,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuk99&count_private=true" height="200px"/>
 </a>
+
+<!-- &layout=compact -->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mingyuk99&count_private=true&show_icons=true&hide_rank=true" height="200px" />
 </a> 
