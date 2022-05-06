@@ -3,13 +3,12 @@
 <div align='center'>
 	
   
-   ## Hello👋
-  
-   ### I’m currently learning Algorithm and Android.
-	
-	
-	
+ 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi👋%20I'm%20Mingyu%20Kim&fontSize=40)
 
+   ### I’m currently learning Algorithm and Android.
+
+	
 <!-- [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nigmyu211)](https://solved.ac/nigmyu211)     -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,8 +17,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mingyuk99&count_private=true&show_icons=true&hide_rank=true" height="200px" />
 </a>
-
+	
+![footer](https://capsule-render.vercel.app/api?type=waving&height=200&color=auto&section=footer)
 </div>
+
 
 
 <!-- 여기에 내용을!! 
