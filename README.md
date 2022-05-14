@@ -12,13 +12,13 @@
 <!-- [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nigmyu211)](https://solved.ac/nigmyu211)     -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuk99&count_private=true" height="200px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmandoo&count_private=true" height="200px"/>
 </a>
 
 <!-- &layout=compact -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mingyuk99&count_private=true&show_icons=true&hide_rank=true" height="200px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimmandoo&count_private=true&show_icons=true&hide_rank=true" height="200px" />
 </a> 
 <br></br>	
 
@@ -34,9 +34,9 @@
 <!-- 여기에 내용을!! 
 
   https://img.shields.io/badge/github-GIVEME--STAR-red
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingyuk99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmandoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-	 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyuk99&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
+	 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimmandoo&count_private=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 	
   ![a](https://img.shields.io/badge/language-JAVA-red)
