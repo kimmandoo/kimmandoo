@@ -4,7 +4,7 @@
 	
   
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi👋%20I'm%20Mingyu%20Kim&fontSize=32)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi👋%20I'm%20Mingyu%20Kim&fontSize=28)
 
 #### I’m currently learning Algorithm and Android.
 	
