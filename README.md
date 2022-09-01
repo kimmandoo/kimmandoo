@@ -1,12 +1,12 @@
-#### 😄Hi, I'm Mingyu Kim. I'm developing to make services that will enhance our lives.
+### 😄 Hi, I'm Mingyu Kim. I'm developing to make services that will enhance our lives.
 
-* 🎓 College student
+* 🎓 University Student
 * 🌱 Learning Android with Kotlin
 
 ----
 
 
-#### 🔭Project
+### 🔭 Project
 
  - [SuChelin](https://github.com/kimmandoo/SuChelin) 맛집정보 앱 
 
