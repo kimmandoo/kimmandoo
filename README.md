@@ -1,9 +1,3 @@
-### 😄 Hi, I'm Mingyu Kim. I'm developing to make services that will enhance our lives.
-
-* 🎓 University Student
-* 🌱 Learning Android with Kotlin
-
-----
 ![Metrics](/github-metrics.svg)
 
 ![starred](/metrics.plugin.topics.icons.svg)
