@@ -4,9 +4,10 @@
 * 🌱 Learning Android with Kotlin
 
 ----
-
 ![Metrics](/github-metrics.svg)
- 
+
+![starred](/metrics.plugin.topics.icons.svg)
+
  ----
 
 
