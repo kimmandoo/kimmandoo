@@ -5,12 +5,18 @@
 
 ----
 
+![Metrics](/github-metrics.svg)
+ 
+ ----
+
 
 ### 🔭 Project
 
  - [SuChelin](https://github.com/kimmandoo/SuChelin) 맛집정보 앱 
 
-  
+
+
+
 <!--
 **mingyuk99/mingyuk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
