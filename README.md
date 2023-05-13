@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Introduction
 #### Hello. I'm Migyu Kim. 
-|[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-400891193/) [![Tistory](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://gyudev.tistory.com/)|
+|[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-400891193/)|
 |---|
 |![Metrics](/github-metrics.svg)|
 |---|
@@ -19,7 +19,7 @@
 
 ## 🔭 Project
 
- - [SuChelin](https://github.com/kimmandoo/SuChelin) 맛집정보 앱 
+ - [SuChelin](https://github.com/kimmandoo/SuChelin) 맛집정보 앱 (공사중)
 
 ## 📜 Certificate
 
@@ -27,7 +27,7 @@
 
 <!--
 **mingyuk99/mingyuk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Tistory](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://gyudev.tistory.com/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
