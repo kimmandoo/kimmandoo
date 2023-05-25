@@ -23,7 +23,7 @@
 
 ## 📜 Certificate
 
-
+- 정보보안산업기사(2023.5.25~)
 
 <!--
 **mingyuk99/mingyuk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
