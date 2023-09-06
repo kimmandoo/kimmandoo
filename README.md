@@ -2,12 +2,12 @@
 #### Hello. I'm Migyu Kim. 
 |[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-400891193/)|
 |---|
-|![Metrics](github-metrics.svg)|
-|---|
+|<img align="center" src="https://raw.githubusercontent.com/kimmandoo/kimmandoo/main/github-metrics.svg" alt="Metrics" width="500">|
+
 #
 ![starred](/metrics.plugin.topics.icons.svg)
 
-## ⚒ Tech Skill
+##https://raw.githubusercontent.com/kimmandoo/kimmandoo/main/github-metrics.svg ⚒ Tech Skill
 <!--https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}-->
 |Classification|Skills|
 |---|---|
