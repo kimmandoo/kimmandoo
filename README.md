@@ -2,7 +2,7 @@
 #### Hello. I'm Migyu Kim. 
 |[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-400891193/)|
 |---|
-|![Metrics](/github-metrics.svg)|
+|![Metrics](github-metrics.svg)|
 |---|
 #
 ![starred](/metrics.plugin.topics.icons.svg)
