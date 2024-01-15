@@ -19,7 +19,8 @@
 
 ## 🔭 Project
 
- - [SuChelin](https://github.com/kimmandoo/SuChelin) 맛집정보 앱 (공사중)
+ - [SuChelin](https://github.com/SuChelin/SuChelinV2)
+ - [부끄북극](https://github.com/ShyPolarBear/Android)
 
 ## 📜 Certificate
 
