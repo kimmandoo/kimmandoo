@@ -5,9 +5,12 @@
 |:---:|
 | [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=kimmandoo)](https://solved.ac/kimmandoo) |
 |<img align="center" src="https://raw.githubusercontent.com/kimmandoo/kimmandoo/main/github-metrics.svg" alt="Metrics" width="500">|
-
 #
 ![starred](/metrics.plugin.topics.icons.svg)
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{kimmandoo}"/>
+</a>
 
 ## ⚒ Tech Skill
 <!--https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}-->
