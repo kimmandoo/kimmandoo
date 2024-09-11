@@ -1,7 +1,7 @@
 ## 🙋‍♂️ Introduction
 #### Hello. I'm Migyu Kim. 
 
-|[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-400891193/) |
+|[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-400891193/) [![Tistory](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://kimmandooo.tistory.com/)|
 |:---:|
 |<a href="https://github.com/devxb/gitanimals">  <img src="https://render.gitanimals.org/farms/{kimmandoo}" width="500"/></a> |
 | [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=kimmandoo)](https://solved.ac/kimmandoo) |
@@ -24,19 +24,22 @@
 ## ✨ Career & Education
  - Samsung Software Academy for Youth (2024. 01 ~ 2024. 12)
    -  11th Mobile Track
+   -  삼성 청년 SW 아카데미 공통 프로젝트 우수팀 선정
 
 ## 🔭 Project
 
  - [SuChelin](https://github.com/SuChelin/SuChelinV2)
- - [부끄북극](https://github.com/ShyPolarBear/Android)
+ - [부끄북극](https://github.com/kimmandoo/ShyPolarBear/tree/kimmandoo)
+ - [위치기반 모임관리 앱 - 핑 Ping!](https://github.com/kimmandoo/Ping)
+ - [공연 예매, 관리, 커뮤니티 통합 플랫폼 - Colorpl](https://github.com/kimmandoo/Colorpl)
 
 ## 📜 Certificate
 
 - 정보보안산업기사(2023.5.25~)
+- OPIc IH(2024.8.18~)
 
 <!--
 **mingyuk99/mingyuk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Tistory](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://gyudev.tistory.com/)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
