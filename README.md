@@ -24,7 +24,7 @@
 ## ✨ Career & Education
  - Samsung Software Academy for Youth (2024. 01 ~ 2024. 12)
    -  11th Mobile Track
-   -  삼성 청년 SW 아카데미 공통 프로젝트 우수팀 선정
+   -  삼성 청년 SW 아카데미 공통 프로젝트 우수상 (2등)
 
 ## 🔭 Project
 
