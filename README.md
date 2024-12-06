@@ -47,6 +47,7 @@
 
 - #### 정보보안산업기사(2023.5.25~)
 - #### OPIc IH(2024.8.18~)
+- #### SQLD(2024.12.13)
 
 <!--
 **mingyuk99/mingyuk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
