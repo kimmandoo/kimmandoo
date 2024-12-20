@@ -5,7 +5,7 @@
 - 구현해야 할 기능에 대해 어떤 기능을 먼저 개발할지 고민하고, 기능 구현이 어렵다면 왜 어려운지 팀원과 의견교류를 통해 대안을 도출합니다.
 - 모르는 기술을 사용할 때는 공식문서를 먼저 찾아보고, 적용 시 겪었던 어려움을 정리해 글로 남깁니다.
 - 컨퍼런스에 참여해 관심있는 세션을 들으며, 최신 기술에 관심이 있습니다.
-- 해보지않은 것에 도전하며, 최근에는 CI/CD와 테스트 코드를 학습하고 있습니다.
+- 해보지않은 것에 도전하며, 최근에는 AWS, CI/CD와 테스트 코드를 학습하고 있습니다.
 
 
 |[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-400891193/) [![Tistory](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://kimmandooo.tistory.com/)|
@@ -30,7 +30,7 @@
 |Learning|![Git](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)|
 
 ## ✨ Career & Education
- - #### Samsung Software Academy for Youth (2024. 01 ~ 2024. 12)
+ - #### Samsung Software Academy for Youth (2024.01.02 ~ 2024.12.19)
    -  11th Mobile Track
    -  삼성 청년 SW 아카데미 공통 프로젝트 우수상 (2등)
    -  삼성 청년 SW 아카데미 특화 프로젝트 우수상 (2등)
