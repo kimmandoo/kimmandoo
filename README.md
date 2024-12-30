@@ -36,7 +36,7 @@
 - #### 정보보안산업기사(2023.5.25~)
 - #### OPIc IH(2024.8.18~)
 - #### SQLD(2024.12.13)
-- #### AWS Certified Solutions Architect – Associate(2024.12.30~2027.12.30)<img align="center" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100">
+- #### AWS Certified Solutions Architect – Associate(2024.12.30~2027.12.30)<img align="center" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60">
 
 
 |[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mingyu-kim-400891193/) [![Tistory](https://img.shields.io/badge/blog-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://kimmandooo.tistory.com/)|
