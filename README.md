@@ -2,8 +2,8 @@
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kimmandoo&utm_content=line">
     <img
       src="https://render.gitanimals.org/lines/kimmandoo?pet-id=649885029616576006"
-      width="500"
-      height="120"
+      width="600"
+      height="140"
     />
   </a>
 </p>
@@ -25,7 +25,7 @@
   - `Framework`: `Android - Jetpack Compose, View`, `AOSP` 
 
 #### `Careers` & `Experiences`
- - `Marusys Co., Ltd / Software Engineer @Media Lab(Overseas Unit) (2025.04 ~ 현재)`
+ - `Marusys Co., Ltd / Software Engineer @Media Lab(Overseas Unit) (2025.04.01 ~ 현재)`
  - `Samsung Software Academy for Youth - 11th Mobile Track (2024.01.02 ~ 2024.12.19)`
 
 #### `Project`
