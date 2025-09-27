@@ -50,7 +50,7 @@
 #### `Contribute`
 
 - Droid Kaigi Conference App 2025
-  - ![북마크 state가 검색 결과 화면에 반영되지않는 issue 해결](https://github.com/DroidKaigi/conference-app-2025/pull/265) 
+  - [북마크 state가 검색 결과 화면에 반영되지않는 issue 해결](https://github.com/DroidKaigi/conference-app-2025/pull/265) 
 
 
  ![starred](/metrics.plugin.topics.icons.svg)
