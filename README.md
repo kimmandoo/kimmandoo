@@ -1,11 +1,12 @@
 <p align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=kimmandoo&utm_content=line">
-    <img
-      src="https://render.gitanimals.org/lines/kimmandoo?pet-id=649885029616576006"
-      width="600"
-      height="140"
-    />
-  </a>
+  <a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/772354946469542262/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 </p>
 
 #### `Introduction`
