@@ -1,72 +1,96 @@
 <p align="center">
-  <a href="https://www.gitanimals.org/">
-      <img
-        src="https://render.gitanimals.org/guilds/772354946469542262/draw"
-        width="400"
-        height="200"
-        alt="gitanimals"
-      />
-    </a>
+  <sub><b>김민규 · Mingyu Kim</b></sub><br>
+  <sub>Android / Embedded Software Engineer</sub>
 </p>
-
-#### `Introduction`
-- #### 안녕하세요. 근거 주도 개발, 김민규입니다.
-- 언젠가 제가 만든 서비스를 이용하는 사용자의 모습을 보기 위해, 끊임없이 노력합니다.
-- 모든 기술적 선택에 대해 '왜?'라는 질문을 던지며, 명확한 근거를 바탕으로 최적의 해결책을 찾기 위해 노력합니다.
 
 <p align="center">
-<a href="mailto:mingyu5675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<!-- <a href="YOUR_PORTFOLIO_LINK_HERE"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> -->
-<a href="https://medium.com/@kimmandoo"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mingyu-kim-400891193"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:mingyu5675@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://medium.com/@kimmandoo"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.linkedin.com/in/mingyu-kim-400891193"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-#### `Skills`
-  - `Languages`: `Kotlin`, `Java`, `Dart`, `Python`
-  - `Framework`: `Android - Jetpack Compose, View`, `AOSP`, `Flutter`
+<br>
 
-#### `Careers` & `Experiences`
- - `Marusys Co., Ltd / Software Engineer @Media Lab(Overseas Unit) (2025.04.01 ~ 현재)`
- - `Samsung Software Academy for Youth - 11th Mobile Track (2024.01.02 ~ 2024.12.19)`
+<p>
+  <sub><b>👋 Introduction</b></sub><br>
+  <sub>
+    <b>안녕하세요. 김민규입니다.</b><br>
+    모든 기술적 선택에 대해 <b>'왜?'</b>라는 질문을 던지며, 명확한 근거를 바탕으로 최적의 해결책을 찾기 위해 노력합니다.
+  </sub>
+</p>
 
-#### `Project`
+<br>
 
- - [SuChelin](https://github.com/SuChelin/SuChelinV2)
- - [부끄북극](https://github.com/kimmandoo/ShyPolarBear/tree/kimmandoo)
- - [위치기반 모임관리 앱 - 핑 Ping!](https://github.com/kimmandoo/Ping)
- - [공연 예매, 관리, 커뮤니티 통합 플랫폼 - Colorpl](https://github.com/kimmandoo/Colorpl) - 삼성 청년 SW 아카데미 11기 공통프로젝트 우수 프로젝트
- - [자율주행차량 기반 스마트 투어 서비스 - DRTAA(다타)](https://github.com/kimmandoo/DRTAA) - 삼성 청년 SW 아카데미 11기 특화프로젝트 우수 프로젝트
- - [Youtube Downloader](https://github.com/kimmandoo/spull) - YtDlp를 활용한 tauri + rust 프로젝트
+<p>
+  <sub><b>🧩 Skills</b></sub><br>
+  <sub>
+    <b>Languages</b> · <code>Kotlin</code> <code>Java</code> <code>Dart</code> <code>Python</code><br>
+    <b>Framework</b> · <code>Android - Jetpack Compose · View</code> <code>AOSP</code> <code>Flutter</code> <code>RDK(Yocto-based)</code>
+  </sub>
+</p>
 
-#### `Certificate`
+<br>
 
-- 정보보안산업기사(2023.5.25~)
-- OPIc IH(2024.8.18~2026.08.17)
-- SQLD(2024.12.13)
-- AWS Certified Solutions Architect – Associate(2024.12.30~2027.12.30)<img align="center" src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60">
+<p>
+  <sub><b>💼 Careers & Experiences</b></sub><br>
+  <sub>
+    <b>Marusys Co., Ltd</b> · Software Engineer @ Media Lab (Overseas Unit)<br>
+    <code>2025.04.01 — Present</code>
+  </sub>
+  <br><br>
+  <sub>
+    <b>Samsung Software Academy for Youth</b> · 11th Mobile Track<br>
+    <code>2024.01.02 — 2024.12.30</code>
+  </sub>
+</p>
+
+<br>
+
+<p>
+  <sub><b>🚀 Project</b></sub><br>
+  <sub>
+    · <a href="https://github.com/SuChelin/SuChelinV2"><b>SuChelin</b></a><br>
+    · <a href="https://github.com/kimmandoo/ShyPolarBear/tree/kimmandoo"><b>부끄북극</b></a><br>
+    · <a href="https://github.com/kimmandoo/Ping"><b>위치기반 모임관리 앱 - 핑 Ping!</b></a><br>
+    · <a href="https://github.com/kimmandoo/Colorpl"><b>공연 예매, 관리, 커뮤니티 통합 플랫폼 - Colorpl</b></a>
+      · 삼성 청년 SW 아카데미 11기 공통프로젝트 우수 프로젝트<br>
+    · <a href="https://github.com/kimmandoo/DRTAA"><b>자율주행차량 기반 스마트 투어 서비스 - DRTAA(다타)</b></a>
+      · 삼성 청년 SW 아카데미 11기 특화프로젝트 우수 프로젝트<br>
+    · <a href="https://github.com/kimmandoo/spull"><b>Spull - Youtube Downloader</b></a>
+      · YtDlp를 활용한 Tauri + Rust 프로젝트
+  </sub>
+</p>
+
+<br>
+
+<p>
+  <sub><b>🏅 Certificate</b></sub><br>
+  <sub>
+    · <b>정보보안산업기사</b> · <code>2023.05.25 —</code><br>
+    · <b>OPIc IH</b> · <code>2024.08.18 — 2026.08.17</code><br>
+    · <b>SQLD</b> · <code>2024.12.13</code><br>
+    · <b>AWS Certified Solutions Architect – Associate</b> · <code>2024.12.30 — 2027.12.30</code>
+  </sub>
+  &nbsp;
+  <img
+    src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
+    width="42"
+    alt="AWS Certified Solutions Architect – Associate"
+  />
+</p>
+
+<br>
+
+<p>
+  <sub><b>🌱 Contribute</b></sub><br>
+  <sub>
+    <b>Droid Kaigi Conference App 2025</b><br>
+    └ <a href="https://github.com/DroidKaigi/conference-app-2025/pull/265">북마크 state가 검색 결과 화면에 반영되지않는 issue 해결</a>
+  </sub>
+</p>
+
+<br>
 
 <p align="center">
- <img align="center" src="https://raw.githubusercontent.com/kimmandoo/kimmandoo/main/github-metrics.svg" alt="Metrics" width="500">
+  <sub><code>keep asking why · keep building</code></sub>
 </p>
-
-#### `Contribute`
-
-- Droid Kaigi Conference App 2025
-  - [북마크 state가 검색 결과 화면에 반영되지않는 issue 해결](https://github.com/DroidKaigi/conference-app-2025/pull/265) 
-
-
- ![starred](/metrics.plugin.topics.icons.svg)
-
-<!--
-**mingyuk99/mingyuk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
