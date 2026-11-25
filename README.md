@@ -86,6 +86,10 @@
   <sub>
     <b>Droid Kaigi Conference App 2025</b><br>
     └ <a href="https://github.com/DroidKaigi/conference-app-2025/pull/265">북마크 state가 검색 결과 화면에 반영되지않는 issue 해결</a>
+  </sub><br>
+  <sub>
+    <b>rdkcentral - rdk-docker-builder</b><br>
+    └ <a href="https://github.com/rdkcentral/rdk-docker-builder/issues/30">.venv가 이상할 때 setup이 실패하는 경우 issue 등록 및 해결법 제안</a>
   </sub>
 </p>
 
